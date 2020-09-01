@@ -1,0 +1,14 @@
+/*ESTILOS PARA EL EJERCICIO #2*/
+
+h2 {
+  text-align: center;
+}
+
+.mainContentSpace {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.textoBlanco {
+  color: white;
+}
